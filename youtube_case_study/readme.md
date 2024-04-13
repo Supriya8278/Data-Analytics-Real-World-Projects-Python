@@ -26,25 +26,25 @@ YouTube
    
 6. Data collection:
 
-    CONCLUSIONS: The total collected data were (375942, 16) and then we dropped the duplicates and the data was (339525, 16)
+   CONCLUSIONS: The total collected data were (375942, 16) and then we dropped the duplicates and the data was (339525, 16)
    
 8. How to export data into (CSV, JSON, DB)
 
-10. Analysing the most liked category
+9. Analysing the most liked category
 
    CONCLUSIONS: The most liked categories are Music, Entertainment, Nonprofits & Activism, and People & Blogs we can have more of these kinds of content to 
    attract more traffic
 
-12. Analyse whether the audience is engaged or not
+10. Analyse whether the audience is engaged or not
 
     CONCLUSIONS: As we see a linear regression plot between the views likes and dislikes the audience engagement is perfect as it is increasing at the same rate.
       
-14. Analysing trending videos on YouTube!
+11. Analysing trending videos on YouTube!
 
     CONCLUSIONS: The top three trending videos are The Late Show with Stephen Colbert, WWE, and Late Night with Seth Meyers, We can have more content in this genre 
     to attract more traffic.
     
-16. Does the punctuation in the title and tags have any relation with views, likes dislikes and comments?
+12. Does the punctuation in the title and tags have any relation with views, likes dislikes and comments?
 
     CONCLUSIONS: Yes having 2, 4, and 6 in a title and tags tends to have more likes.
     and Titles with 2,4 and 3 punctuations are likely to have more views.
