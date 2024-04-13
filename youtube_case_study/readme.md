@@ -15,6 +15,7 @@ YouTube
 2. We will create a Word Cloud:
    we created a positive intended word cloud approach to this we will need the data frame where we have polarity plus one.
    we created a negative intended word cloud approach to this we will need the data frame where we have polarity minus one.
+
    CONCLUSIONS: The positive intended words were best, perfect, awesome, beautiful, love, song etc..
    The negative intended were terrible, worst, horrible, boring, insane etc..
    
@@ -25,7 +26,7 @@ YouTube
    
 6. Data collection:
 
-   CONCLUSIONS: The total collected data were (375942, 16) and then we dropped the duplicates and the data was (339525, 16)
+    CONCLUSIONS: The total collected data were (375942, 16) and then we dropped the duplicates and the data was (339525, 16)
    
 8. How to export data into (CSV, JSON, DB)
 
